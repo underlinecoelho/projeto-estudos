@@ -1,1 +1,3 @@
 # projeto-estudos
+  O objetivo deste software é ser uma área de estudos onde os próprios alunos compartilhem seus conhecimentos e métodos de estudo sobre uma ou várias disciplinas, sendo uma forma alternativa de aprendizado por ser uma comunicação horizontal(de estudante para estudante).
+  Em todos os campi do IFPR já existem plataformas onde os materiais usados pelo professor são disponibilizados, e este software teria uma função de atendimento acadêmico, porém remoto e feito pelos próprios alunos. Também abre portas para os alunos que têm interesse em ensinar outras pessoas e compartilhar seus métodos e linha de raciocínio.
